@@ -44,7 +44,7 @@ El dataset utilizado en este proyecto fue tomado de Kaggle:
 
 Además, el archivo usado en el notebook se encuentra dentro del repositorio:
 
-[Ver dataset local](./student_stress_sleep_screen.xlsx)
+[Ver dataset local](./student_stress_sleep_screen.csv)
 
 ## Metodología
 
@@ -131,7 +131,7 @@ En los modelos no supervisados, PCA permitió reducir el dataset a dos component
 ## Archivos del repositorio
 
 - [Notebook del proyecto](./Proyecto_AprendizajeMaquina.ipynb)
-- [Dataset](./student_stress_sleep_screen.xlsx)
+- [Dataset](./student_stress_sleep_screen.csv)
 - [Presentación](./Presentacion_Student_Stress_ML.pptx)
 - [Banner](./Banner.png)
 
