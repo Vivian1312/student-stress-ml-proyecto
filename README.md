@@ -133,6 +133,7 @@ En los modelos no supervisados, PCA permitió reducir el dataset a dos component
 - [Notebook del proyecto](./Proyecto_AprendizajeMaquina.ipynb)
 - [Dataset](./student_stress_sleep_screen.csv)
 - [Presentación](./Presentacion_Student_Stress_ML.pptx)
+- [Video Presentación](https://drive.google.com/file/d/1zMjXy9BX2AANZZ7qNFAgnkIvP4lWG4Kx/view?usp=sharing)
 - [Banner](./Banner.png)
 
 ## Presentación
