@@ -132,7 +132,7 @@ En los modelos no supervisados, PCA permitió reducir el dataset a dos component
 
 - [Notebook del proyecto](./Proyecto_AprendizajeMaquina.ipynb)
 - [Dataset](./student_stress_sleep_screen.csv)
-- [Presentación](./Presentacion_Student_Stress_ML.pptx)
+- [Presentación](./Presentacion_Student_Stress_ML.pdf)
 - [Video Presentación](https://drive.google.com/file/d/1zMjXy9BX2AANZZ7qNFAgnkIvP4lWG4Kx/view?usp=sharing)
 - [Banner](./Banner.png)
 
@@ -146,7 +146,7 @@ La presentación resume las tres etapas del proyecto:
 
 Puedes consultar la presentación aquí:
 
-[Ver presentación](./Presentacion_Student_Stress_ML.pptx)
+[Ver presentación](./Presentacion_Student_Stress_ML.pdf)
 
 ## Conclusiones
 
